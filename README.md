@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EthanHenrickson
-- 👀 I’m interested in learning about backend dev
+- 👀 I’m interested in becomign a Full-Stack dev
 - 🌱 I’m currently learning at Bemidji State University
 
 <!---
